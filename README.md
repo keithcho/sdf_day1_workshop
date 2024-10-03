@@ -43,7 +43,6 @@ orange removed from cart
 1. apple
 2. pear
 > add apple, grapes
-Day 01 Workshop Software Development Foundation
 You have apple in your cart
 grapes added to cart
 > list
