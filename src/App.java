@@ -48,7 +48,7 @@ public class App {
                 case "exit":
                     System.exit(0);
                 default:
-                    System.err.println("Command not recognized. Please try again\n");
+                    System.err.println("Command not recognized. Please try again");
                 }
         }
     }
